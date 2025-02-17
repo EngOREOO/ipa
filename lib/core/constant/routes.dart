@@ -1,0 +1,33 @@
+class AppRoutes {
+  static String lang = "/lang";
+  static String onbording = "/onbording";
+  static String home = "/home";
+  static String mainpage = "/mainpage";
+  static String brands = "/brandspage";
+  static String categoriespage = "/categoriespage";
+  static String productdetailspage = "/productdetailspage";
+  static String productspage = "/productspage";
+  static String cart = "/cart";
+  static String login = "/login";
+  static String signup = "/signup";
+  static String SubCategoriesPage = "/SubCategoriesPage";
+  static String editprofilepage = "/editprofilepage";
+  static String favouritePage = "/favouritePage";
+  static String PrivacyPolicyPage = "/PrivacyPolicyPage";
+  static String BrandProductsPage = "/BrandProductsPage";
+  static String QuotationsPage = "/QuotationsPage";
+  static String AchivementsPage = "/AchivementsPage";
+  static String BrandsPage = "/BrandsPage";
+  static String ChildrenBrandProductsPage = "/ChildrenBrandProductsPage";
+  static String OrdersPage = "/OrdersPage";
+  static String SearchPage = "/SearchPage";
+  static String EducationalPage = "/EducationalPage";
+  static String ConcetUsPage = "/ConcetUsPage";
+  static String RefundPage = "/RefundPage";
+  static String EditPasswordPage = "/EditPasswordPage";
+  static String AboutUsPage = "/AboutUsPage";
+  static String LatestProductsPage = "/LatestProductsPage";
+  static String OffersProductsPage = "/OffersProductsPage";
+  static String ChangeLangPage = "/ChangeLangPage";
+  static String PointsPage = "/PointsPage";
+}
